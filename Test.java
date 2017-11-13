@@ -1,12 +1,12 @@
 public Test{
 
-public static void main(String[] args){
-    sdaasda
-System.out.println("Tdsaet");asda
-asda
-assda
-adas
-dada
-da
+public static void main(String[] args){asda
+    sdaasdadasda
+System.out.println("Tdsaet");asdaasdas
+asdaasdas
+assdaasda
+adasasda
+dadaasd
+daasda
 }
 }
